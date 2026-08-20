@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Response Coordinator",
+  "description": "A comprehensive real-time coordination platform for emergency managers, first responders, and volunteers to monitor disasters, dispatch rescue teams, allocate resources, and process citizen reports.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
